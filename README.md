@@ -168,8 +168,7 @@
 <br clear="both">
 <img src="https://raw.githubusercontent.com/sahilmurhekar/sahilmurhekar/output/snake.svg" alt="Snake animation" />
 </div>
-###
-
+<br>
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=80&section=header&reversal=false&text=Let's%20Make%20it.&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
