@@ -37,10 +37,10 @@
 
 ###
 <p align="center">
-Languages: Python, C++, JavaScript, TypeScript  
-Frameworks: React, Node.js, TensorFlow, PyTorch, Django  
-Tools: Git, Docker, Linux, VS Code, Figma  
-Specialties: Computer Vision, AI/ML, IoT, Blockchain  
+Languages: Python, C++, JavaScript, TypeScript<br>
+Frameworks: React, Node.js, TensorFlow, PyTorch, Django<br>  
+Tools: Git, Docker, Linux, VS Code, Figma<br>  
+Specialties: Computer Vision, AI/ML, IoT, Blockchain<br>  
 </p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
