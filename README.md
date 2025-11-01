@@ -1,20 +1,13 @@
-👋 Hi there! I'm Sahil Murhekar
-
+<h2 align="center">👋 Hi there! I'm Sahil Murhekar</h2>
+<p align="center">
 🎓 Full-Stack Developer from VIT Vellore  
 💡 Passionate about AI, Web, App, BlockChain and IoT  
 🚀 Constantly exploring new technologies and building impactful projects  
-
-🛠️ Tech Stack  
-Languages: Python, C++, JavaScript, TypeScript  
-Frameworks: React, Node.js, TensorFlow, PyTorch, Django  
-Tools: Git, Docker, Linux, VS Code, Figma  
-Specialties: Computer Vision, AI/ML, IoT, Blockchain  
+</p>
 
 🌍 Portfolio / Website: [https://sahilmurhekar.vercel.app](https://sahilmurhekar.vercel.app)
 
 ---
-
-<h2 align="center">Hi 👋! My name is Sahil Murhekar and I'm a Full-Stack Developer</h2>
 
 ###
 
@@ -37,7 +30,12 @@ Specialties: Computer Vision, AI/ML, IoT, Blockchain
 <h3 align="center">Tech Stack</h3>
 
 ###
-
+<p align="center">
+Languages: Python, C++, JavaScript, TypeScript  
+Frameworks: React, Node.js, TensorFlow, PyTorch, Django  
+Tools: Git, Docker, Linux, VS Code, Figma  
+Specialties: Computer Vision, AI/ML, IoT, Blockchain  
+</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
