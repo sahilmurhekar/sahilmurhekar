@@ -5,7 +5,7 @@
 🚀 Constantly exploring new technologies and building impactful projects<br>  
 </p>
 
-<p align="center">🌍 Portfolio / Website: [https://sahilmurhekar.vercel.app](https://sahilmurhekar.vercel.app)</p>
+<p align="center">🌍 Portfolio Website: https://sahilmurhekar.vercel.app</p>
 
 ---
 
