@@ -164,10 +164,10 @@
 </div>
 
 ###
-
+<div align="center">
 <br clear="both">
 <img src="https://raw.githubusercontent.com/sahilmurhekar/sahilmurhekar/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 
 <div align="center">
