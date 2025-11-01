@@ -1,8 +1,8 @@
 <h2 align="center">👋 Hi there! I'm Sahil Murhekar</h2>
 <p align="center">
-🎓 Full-Stack Developer from VIT Vellore  
-💡 Passionate about AI, Web, App, BlockChain and IoT  
-🚀 Constantly exploring new technologies and building impactful projects  
+🎓 Full-Stack Developer from VIT Vellore<br>
+💡 Passionate about AI, Web, App, BlockChain and IoT<br>  
+🚀 Constantly exploring new technologies and building impactful projects<br>  
 </p>
 
 🌍 Portfolio / Website: [https://sahilmurhekar.vercel.app](https://sahilmurhekar.vercel.app)
